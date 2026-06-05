@@ -3,4 +3,4 @@
 Git practice repository 
 Computer Science and 2nd semester 
 Salma A.D. Nabonadam and 83402028
-A brief description of what this repository will contain
+this is my first Git repository for the intro ti ai course 
